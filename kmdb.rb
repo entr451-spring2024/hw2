@@ -16,6 +16,7 @@
 #   a movie belongs to a single studio.
 # - An actor can be in multiple movies.
 # - Everything you need to do in this assignment is marked with TODO!
+# - Note rubric explanation for appropriate use of external resources.
 
 # Rubric
 # 
@@ -29,6 +30,11 @@
 #   create duplicate data. (5 points)
 # - Query the data and loop through the results to display output similar to the
 #   sample "report" below. (10 points)
+# - You are welcome to use external resources for help with the assignment (including
+#   colleagues, AI, internet search, etc). However, the solution you submit must
+#   utilize the skills and strategies covered in class. Alternate solutions which
+#   do not demonstrate an understanding of the approaches used in class will receive
+#   significant deductions. Any concern should be raised with faculty prior to the due date.
 
 # Submission
 # 
